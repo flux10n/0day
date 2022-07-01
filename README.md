@@ -8,10 +8,10 @@
                              /| 
                              \| 
 
-          0day Elfinder Tools
-             Type: python
+           0day Exploit Tools
+              Type: python
 
-     [?] Usage: python3 elfinder.py
+    [?] Elfinder: python3 elfinder.py
 
 
 ```
