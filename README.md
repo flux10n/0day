@@ -1,4 +1,3 @@
-
 ```
           __                    
          /  \    |              
@@ -9,9 +8,7 @@
                              \| 
 
            0day Exploit Tools
-              Type: python
+               Fox Rsf v1
 
     [?] Elfinder: python3 elfinder.py
-
-
 ```
