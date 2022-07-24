@@ -13,5 +13,3 @@
        [?] Elfinder: python3 elfinder.py        
 
 ```
-
-wkwkwkkwkkk k k k kkkwkwkwkwk
